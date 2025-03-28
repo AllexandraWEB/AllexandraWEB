@@ -10,6 +10,6 @@ If you're wondering what my interests are: 🦢☁️
 ✧˖° Currently pursuing my Informatics Degree at University of Plovdiv "Paisii Hilendarski" and JavaScript Developer Qualification in Software University (SoftUni)
 
 <h3 align="left">✧˖° Languages and Tools: ☁️</h3>
-<p align="left"> [![My Skills] (https://skillicons.dev/icons?i=js,html,css)] (https://skillicons.dev) </p> 
+<p align="left"> <a href="https://skillicons.dev/icons?i=js,html,css" target="_blank" rel="noreferrer"> </p> 
 
 
