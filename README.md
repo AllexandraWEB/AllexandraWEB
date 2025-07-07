@@ -1,15 +1,58 @@
 ![Version 5](https://github.com/AllexandraWEB/AllexandraWEB/assets/132084537/dd7d790c-b7d2-45c2-a717-cb937d6230e0)
+
 # Welcome to my world! 📜📔☁️
 
-✧˖° Hi, I'm Alexandra! A passionate web developer with colossal dreams about the future, set in Plovdiv, Bulgaria.🕊️
+✧˖° Hello there! I'm **Alexandra Tsimentarova**, a passionate frontend developer and design enthusiast from Plovdiv, Bulgaria. I'm currently in my third year of studying **Informatics** at the University of Plovdiv *"Paisii Hilendarski"*, while also pursuing a **JavaScript Developer** qualification at **Software University (SoftUni)**.
 
-If you're wondering what my interests are: 🦢☁️
-* ✧˖° I'm currently studying JavaScript;
-* ✧˖° I'm interested in Tailwind, React, etc. I want to enrich my skills and capabilities.
+---
 
-✧˖° Currently pursuing my Informatics Degree at University of Plovdiv "Paisii Hilendarski" and JavaScript Developer Qualification in Software University (SoftUni)
+## ☁️ About Me ✧˖°
 
-<h3 align="left">✧˖° Languages and Tools: ☁️</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+If you're curious about what inspires me:
+
+- ✧˖° I have a deep passion for **frontend development** and **minimalistic design** — clean, simple, yet emotionally rich.
+- ✧˖° I'm always seeking to **grow** — constantly learning new technologies, refining my skills, and exploring creative ways to build meaningful digital experiences.
+- ✧˖° I’m currently focused on expanding my skills in **React** and **Tailwind CSS**.
+- ✧˖° I believe that **technology** and **art** go hand in hand when it comes to creating beautiful user experiences.
+
+---
+
+## 📖 Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/React-2E2E2E?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-2E2E2E?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-2E2E2E?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-2E2E2E?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-2E2E2E?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-2E2E2E?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2E2E2E?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2E2E2E?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-2E2E2E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-2E2E2E?style=flat&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-2E2E2E?style=flat&logo=adobe-illustrator&logoColor=white" />
+</p>
 
 
+---
+
+## ✉️ My Projects ✧˖°
+
+Explore the projects I've built with care, creativity, and code:
+
+🖥️ **My Portfolio:**  
+📎 [aleksandra-portfolio.vercel.app](https://aleksandra-portfolio.vercel.app)
+
+You’ll find some of my favorite works showcasing frontend design, interaction, and experimentation using **React**, **Tailwind**, and a minimalist aesthetic.
+
+---
+
+## 📬 Contact Me
+
+Let's connect and collaborate:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-tsimentarova-41a5b9274/)
+
+---
+
+Let your code speak, and your creativity shine. 🦢
