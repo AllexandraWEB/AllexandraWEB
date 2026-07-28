@@ -2,7 +2,7 @@
 
 # Welcome to my world! 📜📔☁️
 
-✧˖° Hello there! I'm **Alexandra Tsimentarova**, a passionate frontend developer and design enthusiast from Plovdiv, Bulgaria. I'm currently in my third year of studying **Informatics** at the University of Plovdiv *"Paisii Hilendarski"*, while also pursuing a **JavaScript Developer** qualification at **Software University (SoftUni)**.
+✧˖° Hello there! I'm **Alexandra Tsimentarova**, a passionate frontend developer and design enthusiast from Plovdiv, Bulgaria. I'm currently in my final year of studying **Informatics** at the University of Plovdiv *"Paisii Hilendarski"* and have successfully earned my JavaScript Developer qualification from *Software University* (SoftUni).
 
 ---
 
@@ -12,7 +12,6 @@ If you're curious about what inspires me:
 
 - ✧˖° I have a deep passion for **frontend development** and **minimalistic design** — clean, simple, yet emotionally rich.
 - ✧˖° I'm always seeking to **grow** — constantly learning new technologies, refining my skills, and exploring creative ways to build meaningful digital experiences.
-- ✧˖° I’m currently focused on expanding my skills in **React** and **Tailwind CSS**.
 - ✧˖° I believe that **technology** and **art** go hand in hand when it comes to creating beautiful user experiences.
 
 ---
@@ -21,13 +20,15 @@ If you're curious about what inspires me:
 
 <p>
   <img src="https://img.shields.io/badge/React-2E2E2E?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-2E2E2E?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-2E2E2E?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-2E2E2E?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-2E2E2E?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-2E2E2E?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-2E2E2E?style=flat&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-2E2E2E?style=flat&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-2E2E2E?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-2E2E2E?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-2E2E2E?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-2E2E2E?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-2E2E2E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-2E2E2E?style=flat&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-2E2E2E?style=flat&logo=adobe-illustrator&logoColor=white" />
